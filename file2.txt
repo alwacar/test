@@ -1,6 +1,7 @@
-pippo
-pluto
-paperino
-4
-4
-4
+f3() {
+
+}
+
+f4() {
+    
+}
